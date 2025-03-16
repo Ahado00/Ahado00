@@ -6,12 +6,12 @@
 -  Passionate about UI/UX design and AI.
 - Love problem-solving, research, and critical thinking.
 
-  ## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 - Java, Python, Kotlin.
 - UI/UX: Figma.
 
-  ## 🌱 I’m currently learning:
-  - Kotlin language.
+## 🌱 I’m currently learning:
+- Kotlin language.
  
     
 ## 📫 Let's Connect!
