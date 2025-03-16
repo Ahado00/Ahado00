@@ -7,8 +7,8 @@
 - Love problem-solving, research, and critical thinking.
 
   ## 🔧 Technologies & Tools
-- 💻 Java, Python, Kotlin.
-- 🛠️ UI/UX: Figma.
+- Java, Python, Kotlin.
+- UI/UX: Figma.
 
   ## 🌱 I’m currently learning:
   - Kotlin language.
