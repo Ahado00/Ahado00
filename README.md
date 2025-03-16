@@ -16,6 +16,6 @@
     
 ## 📫 Let's Connect!
 - [LinkedIn](www.linkedin.com/in/ahad-altalhi)
-- [Medium]((https://medium.com/@ahadsaad45))
+- [Medium]( https://medium.com/@ahadsaad45 )
 
 
