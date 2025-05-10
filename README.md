@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/116/11669.gif" width="100%" alt="Header GIF" />
+</p>
 
+<h1 align="center">Hi there, I'm Ahad! 👋</h1>
 
 # Hi there, I'm Ahad! 👋
 
