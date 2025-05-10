@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ahad! 👋</h1>
 <p align="center">
-  <img src="file:///C:/Users/ahads_q4dtp7v/Downloads/Hello!%20(1).gif" width="100%" alt="Header GIF" />
+  <img src="[file:///C:/Users/ahads_q4dtp7v/Downloads/Hello!%20(1).gif](https://imgur.com/uGABCdM)" width="100%" alt="Header GIF" />
 </p>
 
 
