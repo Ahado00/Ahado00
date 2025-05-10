@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/NLzCeEl.gif" width="100%" alt="Hi there, I'm Ahad!" />
+  <img src="https://i.imgur.com/uGABCdM.gif" width="100%" alt="Hi there, I'm Ahad!" />
 </p>
 
 
