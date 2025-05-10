@@ -5,24 +5,23 @@
 
 
 # Hi there, I'm Ahad! 👋
+
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://i.imgur.com/evrNL9i.gif" width="100" alt="LinkedIn"/><br/>
-    <sub><b>LinkedIn</b></sub>
+  <a href="https://www.linkedin.com/in/ahad-altalhi/" target="_blank">
+    <img src="https://i.imgur.com/evrNL9i.gif" width="200" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://i.imgur.com/evrNL9i.gif" width="100" alt="Email"/><br/>
-    <sub><b>Email</b></sub>
+  &nbsp;&nbsp;
+  <a href="mailto:ahadsaad45@gmail.com">
+    <img src="https://i.imgur.com/evrNL9i.gif" width="200" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@your-medium-username" target="_blank">
-    <img src="https://i.imgur.com/evrNL9i.gif" width="100" alt="Medium"/><br/>
-    <sub><b>Medium</b></sub>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@ahadsaad45" target="_blank">
+    <img src="https://i.imgur.com/evrNL9i.gif" width="200" alt="Medium"/>
   </a>
 </p>
+
 
 
 
