@@ -45,11 +45,11 @@
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/840cee8b164c10b.png" width="200" alt="Kotlin"/>
+  <img src="https://repository-images.githubusercontent.com/389429650/7105a193-ad96-45cc-a3be-87cdfda75ebe" width="100" alt="Kotlin"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://alexn.org/assets/media/articles/java-logo.png" width="200" alt="Java"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://livingwithpixels.com/wp-content/uploads/2022/10/figma-logo.webp" width="200" alt="Figma"/>
+  <img src="https://www.pngall.com/wp-content/uploads/13/Figma-Logo-PNG-Photo.png" width="70" alt="Figma"/>
 </p>
 
 
