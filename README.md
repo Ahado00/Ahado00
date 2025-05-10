@@ -2,19 +2,19 @@
   <img src="https://i.imgur.com/uGABCdM.gif" width="100%" alt="Hi there, I'm Ahad!" />
 </p>
 
-## 🚀 About Me
-
-👩🏽‍💻 **I'm a passionate UI/UX Designer & Application Developer.**  
-🎯 Currently diving deep as a **Android Mobile App Developer**.
-
-✨ **UI/UX Design** is my creative forte, and **AI** is where my future lies!  
-🧠 I'm deeply passionate about **problem-solving, research**, and **critical thinking**.
-
-💡 I bring **innovative solutions** to life, ensuring every design isn't just aesthetically pleasing but also user-centric and functional.
+## 📌 About Me
+### <p align="center"> 🌟 Android Developer blending seamless functionality with intuitive UI/UX design 🌟 </p> 
+--- 
+- **A Computer Science graduate** with a strong foundation in programming, problem-solving, and tech development.
+  
+- Currently deepening my expertise as an **Android Mobile App Developer**.
+  
+- Driven by a love for **problem-solving**, **research**, and **critical thinking** to approach challenges from all angles.
+  
+- Dedicated to bringing innovative solutions to life, ensuring every design is **not only visually appealing** but also **functional and user-centric**!
 
 
 ### Let’s connect and innovate together!
-
 ## Contact Me
 
 <p align="center">
