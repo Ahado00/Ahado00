@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ahad! 👋</h1>
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/063/698/973/original/gustavo-pinto-vilas-boas-animation-02.gif?1686148780" width="100%" alt="Header GIF" />
+  <img src="file:///C:/Users/ahads_q4dtp7v/Downloads/Hello!%20(1).gif" width="100%" alt="Header GIF" />
 </p>
 
 
