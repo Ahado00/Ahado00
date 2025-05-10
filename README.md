@@ -5,24 +5,25 @@
 
 
 # Hi there, I'm Ahad! 👋
-
 ## 📫 Contact Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://i.imgur.com/evrNL9i.gif" width="70" alt="LinkedIn"/><br/>
+    <img src="https://i.imgur.com/evrNL9i.gif" width="100" alt="LinkedIn"/><br/>
     <sub><b>LinkedIn</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://i.imgur.com/evrNL9i.gif" width="70" alt="Email"/><br/>
+    <img src="https://i.imgur.com/evrNL9i.gif" width="100" alt="Email"/><br/>
     <sub><b>Email</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@your-medium-username" target="_blank">
-    <img src="https://i.imgur.com/evrNL9i.gif" width="70" alt="Medium"/><br/>
+    <img src="https://i.imgur.com/evrNL9i.gif" width="100" alt="Medium"/><br/>
     <sub><b>Medium</b></sub>
   </a>
 </p>
+
 
 
 ## 🚀 About Me
