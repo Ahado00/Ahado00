@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Ahad! 👋</h1>
 <p align="center">
-  <img src="https://imgur.com/uGABCdM" width="100%" alt="Header GIF" />
+  <img src="https://i.imgur.com/NLzCeEl.gif" width="100%" alt="Hi there, I'm Ahad!" />
 </p>
 
 
