@@ -15,7 +15,7 @@
 
 
 ### Let’s connect and innovate together!
-## Contact Me
+## 🔗 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahad-altalhi/" target="_blank">
